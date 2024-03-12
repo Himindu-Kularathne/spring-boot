@@ -10,6 +10,8 @@ public class DemoSpringbootApplication {
 		SpringApplication.run(DemoSpringbootApplication.class, args);
 		System.out.println("Hello world");
 		System.out.println("second commit");
+		System.out.println("third commit");
+		System.out.println("fourth commit");
 
 	}
 
